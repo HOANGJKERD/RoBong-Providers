@@ -1,0 +1,9 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTINF:-1 tvg-id="vtv3hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", VTV3
+http://42.1.99.192:8080/secureVhost/vtv3.flv?token=vtv_secret_20260706
+#EXTINF:-1 tvg-id="vtv6hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+http://42.1.99.192:8080/secureVhost/vtv6.flv?token=vtv_secret_20260706
+#EXTINF:-1 tvg-id="vtv9hd" group-title="FIFA WORLD CUP 2026" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg", VTV9
+http://42.1.99.192:8080/secureVhost/vtv9.flv?token=vtv_secret_20260706
+#EXTINF:-1 tvg-id="vtv10hd" group-title="FIFA WORLD CUP 2026", VTV10
+http://42.1.99.192:8080/secureVhost/vtv10.flv?token=vtv_secret_20260706
